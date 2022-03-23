@@ -2,4 +2,4 @@
 Этот проект служит для поиска внеземных ассиметричных псевдо симетрий с фрактальной сеткой.
 ТАкие решетки можно легко построить с помощью простого алгоритма.
 Достаточно знать базовое представление о геометрии чтобы найти такие симметрии.
-[image](https://github.com/Kvazikot/PseudoGeniusSymmetry/blob/master/vlcsnap-2022-03-23-10h46m35s526.png)
+![image](https://github.com/Kvazikot/PseudoGeniusSymmetry/blob/master/vlcsnap-2022-03-23-10h46m35s526.png)
