@@ -4,6 +4,7 @@
 Достаточно знать базовое представление о геометрии чтобы найти такие симметрии.
 ![image](https://github.com/Kvazikot/PseudoGeniusSymmetry/blob/master/vlcsnap-2022-03-23-10h46m35s526.png)
 ![image](https://github.com/Kvazikot/PseudoGeniusSymmetry/blob/master/path16718.png)
+![image](https://github.com/Kvazikot/PseudoGeniusSymmetry/blob/master/romb_symmetry31.png)
 
 ## Приложение на Пайтоне для поиска таких симметрий.
 Когда-то давно я написал приложение, которое строит фракталы.
