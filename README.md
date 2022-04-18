@@ -13,6 +13,9 @@
 Можете прочесть на этом гитхаб репозитории (репозиторий фракталы)
 https://github.com/Kvazikot/fractali
 
+# Приложение [desmos](https://www.desmos.com/calculator?lang=ru)
+![image](https://github.com/Kvazikot/PseudoGeniusSymmetry/blob/master/desmos_function_symmetry.png)
+
 Идея этой программы состоит в том чтобы можно было перемещать построенные фигуры мышкой
 дял поиска ассиметричных паттернов, чтобы доказать что существует алгоритм для их поиска.
 Или доказать обратное.
